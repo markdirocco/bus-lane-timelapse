@@ -1,0 +1,13 @@
+data/
+mbta_positions.db*
+*.duckdb
+*.duckdb.wal
+test_data/
+mbta_logger.log
+*.blend
+*.blend1
+blender/*.csv
+blender/*.json
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
